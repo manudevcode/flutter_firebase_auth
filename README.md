@@ -1,16 +1,14 @@
-# firebase_auth_provider
+# Firebase Auth (Google) con Provider
 
-A new Flutter project.
+Crea tu primer inicio de sesión con Google en Firebase Auth y Provider desde CERO!!!
 
-## Getting Started
+[Video Tutorial](https://youtu.be/XidN4qBZLuI)
 
-This project is a starting point for a Flutter application.
+## Comenzar
 
-A few resources to get you started if this is your first Flutter project:
+Para que puedas ejecutar sin problemas este proyecto necesitas: 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Tener instalado Flutter](https://flutter.dev/docs/get-started/install)
+- [La versión más reciente de VS Code para mas comodidad](https://code.visualstudio.com/)
+- [Crear un proyecto en Firebase y agregar el GoogleServices.json](https://firebase.google.com/)
+- Instalar las dependencias faltantes con el comando ```packages get```
