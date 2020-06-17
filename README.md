@@ -1,7 +1,9 @@
+
 # Firebase Auth (Google) con Provider
 
-Crea tu primer inicio de sesión con Google en Firebase Auth y Provider desde CERO!!!
+![Firebase Auth y Provider](https://github.com/manudevcode/flutter_firebase_auth/blob/master/image/Web%201920%20%E2%80%93%201.png?raw=true)
 
+Crea tu primer inicio de sesión con Google en Firebase Auth y Provider desde CERO!!!
 [Video Tutorial](https://youtu.be/XidN4qBZLuI)
 
 ## Comenzar
